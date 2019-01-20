@@ -1,0 +1,25 @@
+<!-- apps/demo/views/file.html -->
+
+{! filemanager/util/browser !}
+
+<form method="post" id="{{_form}}">
+
+<p>
+	<input type="text" name="file" id="file" value="{{file|quotes}}" />
+	<input type="submit" id="browse" value="{"Choose an file"}" />
+</p>
+
+<p><input type="submit" value="{"Submit"}" /></p>
+
+</form>
+
+<script>
+$(function () {
+	$('#browse').click (function () {
+		$.filebrowser ({
+			set_value: '#file'
+		});
+		return false;
+	});
+});
+</script>

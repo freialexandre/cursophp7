@@ -1,0 +1,23 @@
+<?php
+
+//depois do : especifico o tipo que quero do retorno (quero que retorne string)
+function soma(float ...$valores):string {
+	return array_sum($valores);
+
+}
+
+echo var_dump(soma(2, 2));
+echo "<br>";
+
+echo soma(25, 33);
+echo "<br>";
+
+echo var_dump(soma(1.5, 3.2));
+echo "<br>";
+
+
+
+
+
+
+?>
