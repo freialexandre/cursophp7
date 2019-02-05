@@ -40,14 +40,6 @@ class Usuario {
 	    $this->dtcadastro = $value;
 	}
 
-
-	//METODO CONSTRUTOR, TODA VEZ QUE INSTANCIAR A CLASSE USUARIO, PODE PASSAR LOGIN E PASSWORD (NAO OBRIGATORIO POR CAUSA DO = "")
-	public function __construct($login = "", $password = "") {
-		$this->setDeslogin($login);
-		$this->setDessenha($password);
-	}
-
-
 	//atributos preenchidos com os valores que veio do banco
 	//PDO SEMPRE RETORNA UM ARRAY DE ARRAYS, MESMO TENDO UM REGISTRO APENAS!
 	public function loadById($id) {
@@ -57,9 +49,13 @@ class Usuario {
 
 			//if(isset($results[0])) {  //Também da certo
 			if (count($results) > 0) {
-				//$row = $results[0];
+				$row = $results[0];
 				//manda os dados trazidos do banco, para os setters, carrega os dados do Banco para o Objeto
-				$this->setData($results[0]);
+				$this->setIdusuario($row['idusuario']);
+				$this->setDeslogin($row['deslogin']);
+				$this->setDessenha($row['dessenha']);
+				$this->setDtcadastro(new DateTime($row['dtcadastro']));
+
 			}
 	}
 
@@ -87,58 +83,31 @@ class Usuario {
 
 			//if(isset($results[0])) {  //Também da certo
 			if (count($results) > 0) {
+				$row = $results[0];
 				//manda os dados trazidos do banco, para os setters, carrega os dados do Banco para o Objeto
-				$this->setData($results[0]);
+				$this->setIdusuario($row['idusuario']);
+				$this->setDeslogin($row['deslogin']);
+				$this->setDessenha($row['dessenha']);
+				$this->setDtcadastro(new DateTime($row['dtcadastro']));
 
 			} else {
 				throw new Exception("Login e/ou senha inválidos");
 			}
 	}
 
-
-	//	recebe um array em $data, poderia ser $data = array() e faz os Setters
-	public function setData($data) {
-		$this->setIdusuario($data['idusuario']);
-		$this->setDeslogin($data['deslogin']);
-		$this->setDessenha($data['dessenha']);
-		$this->setDtcadastro(new DateTime($data['dtcadastro']));
-
-	}
-
-
-
-
 	//PARA INSERIR REGISTROS, AO INVES DO USAR A FUNCAO sql-QUERY, vamos criar uma procedure e trazer o id depois de iserir o registro - fazendo um SELECT (poque ela traz o resultado) ao inves da funcao QUERY da classe Sql
-	//Quando a stored procedure for executada dentro do banco, vai retornar o ID do registro inserido
+	//Quando a procedure for executada dentro do banco, vai retornar o ID do registro inserido
 	public function insert() {
 		$sql = new Sql();
+		//results vai virar metodo pois esta repetitivo nas funcoes
 		$results = $sql->select("CALL sp_usuarios_insert(:LOGIN, :PASSWORD)", array(
 			":LOGIN"=>$this->getDeslogin(),
 			":PASSWORD"=>$this->getDessenha()
 		));
 
-		if (isset($results[0])) {
-			$this->setData($results[0]);
-		}
 
 	}
 
-
-
-	public function update($login, $password) {
-		$this->setDeslogin($login);
-		$this->setDessenha($password);
-
-		$sql = new Sql();
-		$sql->query("UPDATE tb_usuarios SET deslogin = :DESLOGIN, dessenha = :PASSWORD 
-			WHERE idusuario = :ID", array(
-				":DESLOGIN"=>$this->getDeslogin(),
-				":PASSWORD"=>$this->getDessenha(),
-				":ID"=>$this->getIdusuario()
-			));
-
-
-	}
 
 
 	public function __toString() {

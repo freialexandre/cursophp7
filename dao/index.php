@@ -37,8 +37,25 @@ echo "<br>  ________________________________________  <br>";
 //CARREGA UM USUARIO USANDO LOGIN E SENHA
 echo "CARREGA UM USUARIO ESPECIFICO, USANDO LOGIN E SENHA . <br>";
 $usuario = new Usuario();
-$usuario->login("novoUser3", "zzzzzz");
+$usuario->login("novoUser1", "1234");
 echo json_encode($usuario);
+
+echo "<br>  ________________________________________  <br>";
+
+//INSERE USUARIO NO BANCO USANDO PROCECURE CRIADO NO MYSQL (STORED PROCEDURES) E TRAZ OS DADOS DO ULTIMO REGISTRO INSERIDO
+echo "INSERE UM USUARIO, INFORMANDO NOME E SENHA PRA ELE . <br>";
+$aluno = new Usuario("usuarioFulanoZ", "hhhhh");
+$aluno->insert();
+echo $aluno;
+
+echo "<br>  ________________________________________  <br>";
+
+//ALTERANDO UM LOGIN OU SENHA
+$usuario = new Usuario();
+//PRECISA CARREGAR UM USUARIO PARA DEPOIS ALTERA-LO
+$usuario->loadById(8);
+$usuario->update("NovoUser33", "senhaAlterada");
+echo $usuario;
 
 
 ?>
