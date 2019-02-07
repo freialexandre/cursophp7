@@ -8,6 +8,7 @@ require_once("config.php");
 //$usuarios = $sql->select("SELECT * FROM tb_usuarios ORDER BY deslogin");
 //echo json_encode($usuarios);
 
+/*
 
 //CARREGA APENAS UM USUARIO
 echo "TRAZ UM USUARIO ESPECIFICO por ID . <br>";
@@ -56,6 +57,18 @@ $usuario = new Usuario();
 $usuario->loadById(8);
 $usuario->update("NovoUser33", "senhaAlterada");
 echo $usuario;
+
+echo "<br>  ________________________________________  <br>";
+*/
+
+echo "DELETA USUARIO PELO ID . <br>";
+$usuario = new Usuario();
+$usuario->loadById(23);
+$usuario->delete();
+echo "USUARIO DELETADO: " . $usuario;
+
+
+
 
 
 ?>
