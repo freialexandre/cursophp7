@@ -15,8 +15,11 @@ if (file_exists($nomeArquivo))  {
 	echo "Arquivo criado com sucesso";
 }
 
-
-
+//a+ - adiciona texto no final do arquivo
+$texto2 = "\n Boa noite. \n Teste de escrita em arquivo PHP. \n Teste bem sucedido.";
+$file = fopen($nomeArquivo, "a+");
+fwrite($file, $texto2);
+fclose($file);
 
 
 ?>
