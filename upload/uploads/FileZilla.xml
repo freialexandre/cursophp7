@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.32.0" platform="mac">
+	<Servers>
+		<Server>
+			<Host>200.210.134.135</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>frei</User>
+			<Pass encoding="base64">YWxleDAyMDI=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>EAA</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Folder expanded="1">EDITORA - BAURU<Folder expanded="1">Shape<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>revistashape</User>
+					<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Envia Arquivos p/Sao Paulo</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>189.2.6.150</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>revistashape</User>
+					<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Pega Arquivos de Sao Paulo</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+			</Folder>
+			<Folder expanded="1">Sport Life<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>revistasportlife</User>
+					<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Envia Arquivos p/Sao Paulo</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>189.2.6.150</Host>
+					<Port>21</Port>
+					<Protocol>6</Protocol>
+					<Type>0</Type>
+					<User>revistasportlife</User>
+					<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Pega Arquivos de Sao Paulo</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+			</Folder>
+		</Folder>
+		<Folder expanded="1">My Sites<Folder expanded="1">EDITORA - BAURU<Folder expanded="1">Shape<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>6</Protocol>
+						<Type>0</Type>
+						<User>revistashape</User>
+						<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Envia Arquivos p/Sao Paulo</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>189.2.6.150</Host>
+						<Port>21</Port>
+						<Protocol>6</Protocol>
+						<Type>0</Type>
+						<User>revistashape</User>
+						<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Pega Arquivos de Sao Paulo</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+				</Folder>
+				<Folder expanded="1">Sport Life<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>6</Protocol>
+						<Type>0</Type>
+						<User>revistasportlife</User>
+						<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Envia Arquivos p/Sao Paulo</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>189.2.6.150</Host>
+						<Port>21</Port>
+						<Protocol>6</Protocol>
+						<Type>0</Type>
+						<User>revistasportlife</User>
+						<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Pega Arquivos de Sao Paulo</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+				</Folder>
+			</Folder>
+			<Folder expanded="1">My Sites<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>frei</User>
+					<Pass encoding="base64">YWxleDAyMDI=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>EAA</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Folder expanded="1">Os meus Sites<Server>
+						<Host>ftp.bonnier.dk</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>Alto_Astral</User>
+						<Pass encoding="base64">d0hlZUdBMDI=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>BONIER - LIVROS HISTORIA</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>200.204.195.245</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>artpress</User>
+						<Pass encoding="base64">YXJ0cHJlc3M=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>CUNHA</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>estudiocriarte</User>
+						<Pass encoding="base64">ZWMxMGVhYQ==</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Criarte</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftp.einsa.com</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>ftp42</User>
+						<Pass encoding="base64">dXpjdWZ1YWY=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>EINSA</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>ecoeditorial</User>
+						<Pass encoding="base64">ZWUyMDEwZWFh</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Eco</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>xfer2.foxinc.com</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>lnmpub</User>
+						<Pass encoding="base64">IUQwZHpFUiQ=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Fox</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftpmulti.upload.astralecia.com.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>golfc2</User>
+						<Pass encoding="base64">ZmMyZ29sMjQwNw==</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>GOLFC_recebeImagem</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>grafilar</User>
+						<Pass encoding="base64">YXByb3ZhY2Fv</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>GRAFILAR_APROVACAO</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>189.19.8.58</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>grafilartransporte</User>
+						<Pass encoding="base64">Mzg0MTI1</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Graflar</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>grupodeideias</User>
+						<Pass encoding="base64">Z2RpMTBlYWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Grupo_de_Ideias</Name>
+						<Comments>200.210.134.135
+USU¡RIO: grupodeideias
+SENHA: gdi10eaa
+</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>estudiom</User>
+						<Pass encoding="base64">bWUwOWVhYQ==</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Hilda - Studio M</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftp.bonnier.dk</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>Historie</User>
+						<Pass encoding="base64">Z2hydHNmYTIzOTQ=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>History-Brazil</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftp.golmobile.com.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>altoastral</User>
+						<Pass encoding="base64">ZWRAYWx0byNhc3Q=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Jornaleiro</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>200.182.225.3</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>user_altoastral</User>
+						<Pass encoding="base64">ZnRwYWx0b0AxMjM=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>LogPrint</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir>1 0 10 AltoAstral</RemoteDir>
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftp.fotolitodigital.com.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>altoastral</User>
+						<Pass encoding="base64">YWx0b2FzdHJhbDIwMTA=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>NC</Name>
+						<Comments>asenha ltoastral2010</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftp.fotolitodigital.com.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>altoastral</User>
+						<Pass encoding="base64">YWx0b2FzdHJhbDIwMTA=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>NC new</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>200.182.225.3</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>user_altoastral</User>
+						<Pass encoding="base64">ZnRwZ2NhbHRv</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Plano B</Name>
+						<Comments>Globo</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir>1 0 10 altoastral</RemoteDir>
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>logprint</User>
+						<Pass encoding="base64">bHAwOWVhYQ==</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Plano D</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>200.210.134.135</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>revistashape</User>
+						<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Shape_DMZ</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>revistasportlife</User>
+						<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Sport Life_DMZ</Name>
+						<Comments>200.210.134.135</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>189.2.6.150</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>cly</User>
+						<Pass encoding="base64">aW1wcmVz</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>Sucursal-cly</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftps.amilink.com</Host>
+						<Port>22</Port>
+						<Protocol>1</Protocol>
+						<Type>0</Type>
+						<User>Astral</User>
+						<Pass encoding="base64">YkBUNDgzZEJaeg==</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>amilink</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>10.10.10.5</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>frei</User>
+						<Pass encoding="base64">YWxleDAyMDI=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>frei</Name>
+						<Comments>IP externo: 200.210.134.135</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>200.210.134.135</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>fsilva</User>
+						<Pass encoding="base64">YWcxNjEwZWFh</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>fsilva</Name>
+						<Comments>ag1610eaa</Comments>
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>201.6.150.83</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>altoastral</User>
+						<Pass encoding="base64">YWx0bzEw</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>hello kity</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>ftpmulti.upload.astralecia.com.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>golfceaa</User>
+						<Pass encoding="base64">ZWFhMjMwN2dvbCA=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>login_GOLFC</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+					<Server>
+						<Host>xserver1.ast.br</Host>
+						<Port>21</Port>
+						<Protocol>0</Protocol>
+						<Type>0</Type>
+						<User>xserver1</User>
+						<Pass encoding="base64">Y2pmMzJhYmM=</Pass>
+						<Logontype>1</Logontype>
+						<TimezoneOffset>0</TimezoneOffset>
+						<PasvMode>MODE_DEFAULT</PasvMode>
+						<MaximumMultipleConnections>0</MaximumMultipleConnections>
+						<EncodingType>Auto</EncodingType>
+						<BypassProxy>0</BypassProxy>
+						<Name>xserver1</Name>
+						<Comments />
+						<Colour>0</Colour>
+						<LocalDir />
+						<RemoteDir />
+						<SyncBrowsing>0</SyncBrowsing>
+						<DirectoryComparison>0</DirectoryComparison>
+					</Server>
+				</Folder>
+			</Folder>
+			<Folder expanded="1">Os meus Sites<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>astral_cultural</User>
+					<Pass encoding="base64">YXMkNzRiMw==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Astral Cultural</Name>
+					<Comments>as$74b3
+</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.bonnier.dk</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>Alto_Astral</User>
+					<Pass encoding="base64">d0hlZUdBMDI=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>BONIER - LIVROS HISTORIA</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.204.195.245</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>artpress</User>
+					<Pass encoding="base64">YXJ0cHJlc3M=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>CUNHA</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>estudiocriarte</User>
+					<Pass encoding="base64">ZWMxMGVhYQ==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Criarte</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.einsa.com</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>ftp42</User>
+					<Pass encoding="base64">dXpjdWZ1YWY=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>EINSA</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>ecoeditorial</User>
+					<Pass encoding="base64">ZWUyMDEwZWFh</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Eco</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>xfer2.foxinc.com</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>lnmpub</User>
+					<Pass encoding="base64">IUQwZHpFUiQ=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Fox</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftpmulti.upload.astralecia.com.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>golfc2</User>
+					<Pass encoding="base64">ZmMyZ29sMjQwNw==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>GOLFC_recebeImagem</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>grafilar</User>
+					<Pass encoding="base64">YXByb3ZhY2Fv</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>GRAFILAR_APROVACAO</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>189.19.8.58</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>grafilartransporte</User>
+					<Pass encoding="base64">Mzg0MTI1</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Graflar</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>grupodeideias</User>
+					<Pass encoding="base64">Z2RpMTBlYWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Grupo_de_Ideias</Name>
+					<Comments>200.210.134.135
+USU¡RIO: grupodeideias
+SENHA: gdi10eaa
+</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>estudiom</User>
+					<Pass encoding="base64">bWUwOWVhYQ==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Hilda - Studio M</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.bonnier.dk</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>Historie</User>
+					<Pass encoding="base64">Z2hydHNmYTIzOTQ=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>History-Brazil</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.golmobile.com.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>altoastral</User>
+					<Pass encoding="base64">ZWRAYWx0byNhc3Q=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Jornaleiro</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.182.225.3</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>user_altoastral</User>
+					<Pass encoding="base64">ZnRwYWx0b0AxMjM=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>LogPrint</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir>1 0 10 AltoAstral</RemoteDir>
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.fotolitodigital.com.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>altoastral</User>
+					<Pass encoding="base64">YWx0b2FzdHJhbDIwMTA=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>NC</Name>
+					<Comments>asenha ltoastral2010</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftp.fotolitodigital.com.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>altoastral</User>
+					<Pass encoding="base64">YWx0b2FzdHJhbDIwMTA=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>NC new</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.182.225.3</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>user_altoastral</User>
+					<Pass encoding="base64">ZnRwZ2NhbHRv</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Plano B</Name>
+					<Comments>Globo</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir>1 0 10 altoastral</RemoteDir>
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>logprint</User>
+					<Pass encoding="base64">bHAwOWVhYQ==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Plano D</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>revistashape</User>
+					<Pass encoding="base64">c2gxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Shape_DMZ</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>10.10.10.5</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>revistasportlife</User>
+					<Pass encoding="base64">c3AxNDIyZWE=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Sport Life_DMZ</Name>
+					<Comments>200.210.134.135</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>189.2.6.150</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>cly</User>
+					<Pass encoding="base64">aW1wcmVz</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>Sucursal-cly</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftps.amilink.com</Host>
+					<Port>22</Port>
+					<Protocol>1</Protocol>
+					<Type>0</Type>
+					<User>Astral</User>
+					<Pass encoding="base64">YkBUNDgzZEJaeg==</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>amilink</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>frei</User>
+					<Pass encoding="base64">YWxleDAyMDI=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>frei</Name>
+					<Comments>IP externo: 200.210.134.135</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>200.210.134.135</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>fsilva</User>
+					<Pass encoding="base64">YWcxNjEwZWFh</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>fsilva</Name>
+					<Comments>ag1610eaa</Comments>
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>201.6.150.83</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>altoastral</User>
+					<Pass encoding="base64">YWx0bzEw</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>hello kity</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>ftpmulti.upload.astralecia.com.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>golfceaa</User>
+					<Pass encoding="base64">ZWFhMjMwN2dvbCA=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>login_GOLFC</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+				<Server>
+					<Host>xserver1.ast.br</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>xserver1</User>
+					<Pass encoding="base64">Y2pmMzJhYmM=</Pass>
+					<Logontype>1</Logontype>
+					<TimezoneOffset>0</TimezoneOffset>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<MaximumMultipleConnections>0</MaximumMultipleConnections>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>xserver1</Name>
+					<Comments />
+					<Colour>0</Colour>
+					<LocalDir />
+					<RemoteDir />
+					<SyncBrowsing>0</SyncBrowsing>
+					<DirectoryComparison>0</DirectoryComparison>
+				</Server>
+			</Folder>
+			<Server>
+				<Host>200.210.134.135</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>tratamentoimg</User>
+				<Pass encoding="base64">dGltZzIwMTE=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>Tratamento Imagem EAA - timg2011</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+			<Server>
+				<Host>10.10.10.5</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>frei</User>
+				<Pass encoding="base64">YWxleDAyMDI=</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>frei-eaa</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+			<Server>
+				<Host>200.210.134.135</Host>
+				<Port>21</Port>
+				<Protocol>0</Protocol>
+				<Type>0</Type>
+				<User>marmar</User>
+				<Pass encoding="base64">Z3JhZmljYQ==</Pass>
+				<Logontype>1</Logontype>
+				<TimezoneOffset>0</TimezoneOffset>
+				<PasvMode>MODE_DEFAULT</PasvMode>
+				<MaximumMultipleConnections>0</MaximumMultipleConnections>
+				<EncodingType>Auto</EncodingType>
+				<BypassProxy>0</BypassProxy>
+				<Name>marmar</Name>
+				<Comments />
+				<Colour>0</Colour>
+				<LocalDir />
+				<RemoteDir />
+				<SyncBrowsing>0</SyncBrowsing>
+				<DirectoryComparison>0</DirectoryComparison>
+			</Server>
+		</Folder>
+		<Server>
+			<Host>200.210.134.135</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>tratamentoimg</User>
+			<Pass encoding="base64">dGltZzIwMTE=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Tratamento Imagem EAA - timg2011</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>200.210.134.135</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>frei</User>
+			<Pass encoding="base64">YWxleDAyMDI=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>frei-eaa</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="fzsftp executable" />
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">100</Setting>
+		<Setting name="Speedlimit outbound">20</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">1</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Logging show detailed logs">0</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Theme">opencrystal/</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Last Server Path" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Last automatic update check">2018-11-26 01:44:46</Setting>
+		<Setting name="Update Check New Version">nightly 2018-11-25 http://filezilla-project.org/nightlies/2018-11-25/x86_64-apple-darwin13.4.0/FileZilla3.app.tar.bz2 10745946 sha512 3a9d2bb8b922784b8e37caa023299fce7f0232244122cd02f04ddd07f8bcd9706f6bcad4860c2733476017f1bbbecbe895015dfebba9cfde7d413e139669efe3 
+release 3.38.1 https://dl3.cdn.filezilla-project.org/FileZilla_3.38.1_macosx-x86.app.tar.bz2 10488313 sha512 0d445aa90fd7fc340d506f60fe0d63a59f18d3ae06f94a5670ced47789b6e8478d01f0f08aba0a3672830065d1d31b4bc4b2737358906b77ff18ff8f17c337f1
+beta 3.39.0-rc1 https://dl3.cdn.filezilla-project.org/FileZilla_3.39.0-rc1_macosx-x86.app.tar.bz2 10513490 sha512 c03466738fbac0bbe984dbe33b9c9a401f589e2822f1fafbc3d7b3e6006f2369af44a9b2a5f3ea9391aeb239f304b3b55788631545d21aef9d6128f0e7804300
+
+3.39.0-rc1 (2018-11-23)
+
++ The down button on the keyboard now opens the quickconnect history dropdown menu if the quickconnect bar has the input focus
++ The down button on the keyboard now opens the search options if the quick search dialog has the input focus
+- Refactored how close notifications were handled in the network code
+- Fixed saving of the 'not equal' and 'less than' conditions for size filters
+- Fixed regular expression filters not respecting the case-sensitivity checkbox in all situations
+- Restore context menu item to delete file in local file search
+
+3.38.1 (2018-10-27)
+
+- Fixed crash if transferring three or more files in parallel when speed limits are enabled
+
+3.38.0 (2018-10-26)
+
+- Updated translations
+
+3.38.0-rc1 (2018-10-19)
+
++ Refreshing remote file list while holding Ctrl now clears the remote directory cache for the current server
++ Changed default logon type if creating a new site in the Site Manager
+- Fixed state of controles in the Site Manager when creating a new site after the previously viewed site has been predefined
+- Fixed dragging remote files to queue
+- Building and running FileZilla now depends on libfilezilla &gt;= 0.15.0 (https://lib.filezilla-project.org/)
+- Improve compatibility with GnuTLS 3.6.x
+- Fix building with automake &gt;= 1.16.0
+
+3.37.4 (2018-10-04)
+
+- MSW: Fix regression introduced in 3.37.3 with moving files locally using drag&amp;drop
+
+3.37.3 (2018-10-01)
+
+- Fix issues with directory creation when uploading many files in parallel
+- macOS: Fix crashes if dragging more than one file
+- macOS: Opt out of Dark Mode
+
+3.37.1 (2018-09-21)
+
+- Local path is no longer forgotten when leaving synchronized browsing mode
+
+3.37.0 (2018-09-17)
+
+- Fix remote target path if uploading files through the search dialog
+
+3.37.0-rc1 (2018-09-10)
+
++ Use a cache for the system trust store to speed up connecting establishment on systems with huge certificate revocation lists in the system trust store
+- Fixed bug in GnuTLS causing crashes on connection establishment
+- Fixed enabled state of controls in the Site Manager if switching to a protocol not supporting the previously selected logontype
+
+3.36.0 (2018-08-27)
+
+- Fix --site-manager command-line argument
+- Fix potential crash with malformed directory listings
+- Fix potential crash if opening/closing tabs or starting the queue while directories are being renamed or deleted
+
+3.36.0-rc1 (2018-08-20)
+
++ Ask for explicit confirmation prior to falling back to insecure plaintext FTP if a server refuses to use TLS
++ Warn if an FTP server refuses TLS that is known from previous connections to be capable of TLS
+
+3.35.2 (2018-08-06)
+
+- Fix functionality of --site and --local command-line options
+- MSW: Fix local rename not updating file list
+- OS X: Fix compatibility with old CPUs not supporting SSE4
+
+3.35.1 (2018-07-23)
+
+- Fix context menu in search dialog
+
+3.35.0 (2018-07-23)
+
++ Improved appearance of activity indicators, sort direction indicators, and quick search panel buttons on high-DPI displays
+
+3.35.0-rc2 (2018-07-17)
+
+- OS X: Fix dependency problem in build system
+
+3.35.0-rc1 (2018-07-16)
+
++ Add option to settings dialog to have FileZilla restore tabs and connections after a restart
+- Fix initial size of Site Manager being too small on some systems
+
+3.34.0 (2018-06-17)
+
++ After deleting files, the focus rectangle now stays near the previously deleted file
+
+3.34.0-rc1 (2018-06-08)
+
++ Refactoring of the Site Manager internals
++ Moved protocol selection to the top in the Site Manager
++ Adjusted spacing in the Site Manager
++ Slightly reduced height of certificate details dialog
+- MSW: Properly quote the uninstall command in the registry
+- Updated builtin pugixml to version 1.9
+
+3.33.0 (2018-05-07)
+
+- MSW: Microsoft broke the ICopyHook interface in Windows 1803. Until Microsoft fixes the bug in Windows, drag &amp; drop from FileZilla into Explorer will not work on Windows 1803.
+
+3.33.0-rc1 (2018-04-27)
+
++ The contents of the transfer queue can now be sorted
++ SFTP: Support key files encrypted with aes256-ctr, e.g. as created by OpenSSH 7.6 and later
+- SFTP: Fix preserve timestamps menu option
+</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">5</Setting>
+		<Setting name="File exists action upload">5</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting version">3.32.0</Setting>
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Last local directory">/Users/frei/</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">1</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Queue column widths">180 60 347 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">237 80 100 120</Setting>
+		<Setting name="Remote filelist colwidths">256 75 193 100 80 80</Setting>
+		<Setting name="Window position and size">0 556 236 1079 691 </Setting>
+		<Setting name="Splitter positions (v2)">97 -227 270620945 100 100 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Time Format">0</Setting>
+		<Setting name="Date Format">0</Setting>
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor">0</Setting>
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Inherit system associations">1</Setting>
+		<Setting name="Custom file associations" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Site Manager position">0 674 377 843 461 </Setting>
+		<Setting name="Theme icon size" />
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Sitemanager last selected">0/My Sites/My Sites/Os meus Sites/GRAFILAR_APROVACAO</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="Last connected site">0/My Sites/My Sites/Os meus Sites/GRAFILAR_APROVACAO</Setting>
+		<Setting name="File doubleclock action">0</Setting>
+		<Setting name="Dir doubleclock action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">3</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Show Site Manager on startup">0</Setting>
+		<Setting name="Prompt password change">0</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Config Location">/Users/alexandrefrei/.config/filezilla/</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<LastServer>
+			<Host>10.10.10.5</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>grafilar</User>
+			<Pass encoding="base64">YXByb3ZhY2Fv</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>GRAFILAR_APROVACAO</Name>
+		</LastServer>
+		<Setting name="Last automatic update version">3.32.0</Setting>
+	</Settings>
+	<Queue />
+</FileZilla3>
