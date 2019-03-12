@@ -26,9 +26,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 	if (!is_dir($dirUploads)) {
 		mkdir($dirUploads);
+		chmod($dirUploads, 0777);
 	}
 	
-
+	//tmp_name (chave/key do array) - diretorio temporario onde o arquivo fica durante o upload
 	if (move_uploaded_file($file["tmp_name"], $dirUploads . DIRECTORY_SEPARATOR . $file["name"])) {
 		echo "Upload realizado com sucesso! - poderia salvar no banco de dados, insert com nome do arquivo, data...";
 
